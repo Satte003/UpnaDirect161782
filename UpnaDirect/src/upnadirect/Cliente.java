@@ -1,5 +1,6 @@
 package upnadirect;
 
+
 public class Cliente {
     private int anioNacimiento;
     private int salario;
